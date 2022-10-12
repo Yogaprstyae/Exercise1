@@ -77,7 +77,6 @@ namespace Exercise1
             }
         }
 
-
         static void Main(string[] args)
         {
             Program P = new Program();
